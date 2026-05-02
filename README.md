@@ -2,7 +2,7 @@
 
 Premium, copy-paste hero sections and AI prompts. 100% Free and Open Source.
 
-[⭐ Star this repo](https://github.com/yourusername/OpenPromptEngineer) to support the project!
+[⭐ Star this repo](https://github.com/jemishavasoya/OpenPromptEngineer) to support the project!
 
 ---
 
@@ -23,7 +23,9 @@ Premium, copy-paste hero sections and AI prompts. 100% Free and Open Source.
 
 If this repository saved you time, consider buying a coffee. Every supporter gets a permanent spot right here on the Wall of Fame.
 
-**[☕ Buy me a Coffee (International)](your-buymeacoffee-link)** | **[💳 Scan UPI / VPA (India)](link-to-qr-image-in-repo)**
+### You can also buy me a cup of coffee &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/jempatellbv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Tea" style="height: 60px !important;width: 217px !important;" ></a>
+
+**[💳 VPA (India)](jempatellb@okaxis)**
 
 ### 🏆 Platinum Donors
 
