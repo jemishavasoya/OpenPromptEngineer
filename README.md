@@ -15,7 +15,7 @@ Premium, copy-paste hero sections and AI prompts. 100% Free and Open Source.
 | [⚛️ React + Tailwind](./ui-prompts/react-tailwind) | Web-focused animated hero sections. | Active |
 | [🌐 HTML + CSS](./ui-prompts/html-css) | Pure HTML/CSS hero sections. | Active |
 | [🎨 Midjourney Prompts](./ai-prompts/midjourney) | Midjourney generative prompts. | Coming Soon |
-| [🤖 ChatGPT Prompts](./ai-prompts/chatgpt) | ChatGPT prompt templates. | Coming Soon |
+| [🤖 ChatGPT Prompts](./ai-prompts/chatgpt) | 100 ChatGPT prompt templates across 7 categories. | Active |
 
 ---
 
