@@ -25,7 +25,7 @@ If this repository saved you time, consider buying a coffee. Every supporter get
 
 ### You can also buy me a cup of coffee &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/jempatellbv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Tea" style="height: 60px !important;width: 217px !important;" ></a>
 
-**[💳 VPA (India)](jempatellb@okaxis)**
+**💳 VPA (India):** `jempatellb@okaxis`
 
 ### 🏆 Platinum Donors
 
