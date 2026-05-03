@@ -2,7 +2,30 @@
 
 Premium, copy-paste hero sections and AI prompts. 100% Free and Open Source.
 
-[⭐ Star this repo](https://github.com/jemishavasoya/OpenPromptEngineer) to support the project!
+<div align="center">
+
+[⭐ Star this repo](https://github.com/jemishavasoya/OpenPromptEngineer) • [🤝 Contribute](./CONTRIBUTING.md) • [🐛 Report Issue](https://github.com/jemishavasoya/OpenPromptEngineer/issues) • [💡 Discussions](https://github.com/jemishavasoya/OpenPromptEngineer/discussions)
+
+![GitHub stars](https://img.shields.io/github/stars/jemishavasoya/OpenPromptEngineer?style=social)
+![GitHub forks](https://img.shields.io/github/forks/jemishavasoya/OpenPromptEngineer?style=social)
+![GitHub issues](https://img.shields.io/github/issues/jemishavasoya/OpenPromptEngineer)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/jemishavasoya/OpenPromptEngineer)
+![License](https://img.shields.io/github/license/jemishavasoya/OpenPromptEngineer)
+
+</div>
+
+---
+
+## 🎉 What's New
+
+- ✨ **NEW:** 10 Midjourney prompts added (Fashion, Portrait, Concept Art)
+- ⚡ **NEW:** 2 FLUX.1 [Dev] prompts for ultra-realistic portraits
+- 💬 **100+ ChatGPT prompts** across 7 professional categories
+- 🎨 **Gallery layouts** with clickable previews
+- 📚 **Comprehensive documentation** for all prompts
+
+**🔥 We're actively looking for contributors!** [Join us →](#-join-our-community)
+
 ---
 
 ## 🚀 Browse Prompts
@@ -89,40 +112,110 @@ Premium, copy-paste hero sections and AI prompts. 100% Free and Open Source.
 
 ---
 
-## ☕ Support the Project (Wall of Fame)
+## 🤝 Join Our Community
 
-If this repository saved you time, consider buying a coffee. Every supporter gets a permanent spot right here on the Wall of Fame.
+OpenPromptEngineer is built by creators, for creators. Whether you're a prompt engineer, designer, developer, or AI enthusiast - **your contribution matters!**
 
-### You can also buy me a cup of coffee &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/jempatellbv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Tea" style="height: 60px !important;width: 217px !important;" ></a>
+### 🎯 Ways to Contribute
 
-**💳 VPA (India):** `jempatellb@okaxis`
+| Contribution Type | How You Can Help | Difficulty |
+| :--- | :--- | :--- |
+| ⭐ **Star the Repo** | Show your support and help us reach more creators | Easy |
+| 🎨 **Submit Prompts** | Share your best AI prompts (Midjourney, FLUX, ChatGPT, etc.) | Easy |
+| 💻 **Add UI Components** | Contribute hero sections, landing pages, or UI elements | Medium |
+| 📝 **Improve Docs** | Fix typos, add examples, or clarify instructions | Easy |
+| 🐛 **Report Issues** | Found a bug or broken link? Let us know! | Easy |
+| 💡 **Suggest Features** | Have ideas for new categories or improvements? | Easy |
+| 🌍 **Spread the Word** | Share on social media, write a blog post, or tell a friend | Easy |
 
-### 🏆 Platinum Donors
+### 🚀 Quick Start for Contributors
 
-*This is where you manually add supporters using markdown!*
+1. **Fork** this repository
+2. **Clone** your fork: `git clone https://github.com/YOUR-USERNAME/OpenPromptEngineer.git`
+3. **Create a branch**: `git checkout -b feature/my-awesome-prompt`
+4. **Add your contribution** (follow our [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines)
+5. **Commit & Push**: `git commit -m "Add awesome prompt" && git push origin feature/my-awesome-prompt`
+6. **Open a Pull Request** and describe your contribution
 
-<!-- Example: -->
-<!-- <a href="https://github.com/donor1"><img src="https://github.com/donor1.png" width="50" style="border-radius:50%;" alt="Donor 1"/></a> -->
-<!-- <a href="https://github.com/donor2"><img src="https://github.com/donor2.png" width="50" style="border-radius:50%;" alt="Donor 2"/></a> -->
+### 📊 Project Stats
 
-*Be the first to support! Your avatar will appear here.*
+- 🎨 **12** AI Image Generation Prompts
+- 💬 **100+** ChatGPT Prompts
+- 📁 **7** Categories
+- 🌟 **Growing Community** of contributors
+- 🆓 **100% Free** and Open Source
 
-### 💻 Core Contributors
+### 💬 Get Help
 
-A massive thank you to everyone who has submitted a Pull Request to build this library!
+- 📖 Read our [Contributing Guide](./CONTRIBUTING.md)
+- 🐛 [Open an Issue](https://github.com/jemishavasoya/OpenPromptEngineer/issues) for questions or bugs
+- 💡 [Start a Discussion](https://github.com/jemishavasoya/OpenPromptEngineer/discussions) for ideas and feedback
 
-<!-- Example: -->
-<!-- <a href="https://github.com/contributor1"><img src="https://github.com/contributor1.png" width="50" style="border-radius:50%;" alt="Contributor 1"/></a> -->
-
-*Become a contributor! Submit your first PR.*
+**Every contribution, no matter how small, helps thousands of creators worldwide!** 🌍
 
 ---
 
-## 🛠️ How to Contribute
+## ☕ Support the Project
 
-Want to add your own UI component or AI prompt? We would love your help!
+If this repository saved you time or helped your project, consider supporting us! Every contribution helps maintain and grow this free resource.
 
-Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a Pull Request.
+### 💖 Ways to Support
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>⭐ Star the Repo</h3>
+      <p>Free and helps us reach more people!</p>
+      <a href="https://github.com/jemishavasoya/OpenPromptEngineer">
+        <img src="https://img.shields.io/github/stars/jemishavasoya/OpenPromptEngineer?style=social" alt="Star on GitHub">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>☕ Buy Me a Coffee</h3>
+      <p>Support development with a coffee</p>
+      <a href="https://www.buymeacoffee.com/jempatellbv" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>💳 UPI (India)</h3>
+      <p>Direct payment via UPI</p>
+      <code>jempatellb@okaxis</code>
+    </td>
+  </tr>
+</table>
+
+### 🏆 Wall of Fame
+
+**Platinum Supporters** - Thank you for your generous support! 🙏
+
+<!-- Supporters will be added here manually -->
+<!-- Example format:
+<a href="https://github.com/username" title="Name">
+  <img src="https://github.com/username.png" width="60" style="border-radius:50%;" alt="Name"/>
+</a>
+-->
+
+<p align="center">
+  <em>Be the first platinum supporter! Your avatar and link will appear here permanently.</em>
+</p>
+
+---
+
+### 💻 Core Contributors
+
+A massive thank you to everyone who has contributed code, prompts, or documentation!
+
+<!-- Contributors will be added here automatically via GitHub -->
+<!-- Example format:
+<a href="https://github.com/contributor1" title="Contributor Name">
+  <img src="https://github.com/contributor1.png" width="60" style="border-radius:50%;" alt="Contributor"/>
+</a>
+-->
+
+<p align="center">
+  <em>Become a contributor! <a href="./CONTRIBUTING.md">Submit your first PR</a> and join our community.</em>
+</p>
 
 ---
 
@@ -137,9 +230,12 @@ OpenPromptEngineer/
 │   └── html-css/         # Pure HTML/CSS components
 ├── ai-prompts/
 │   ├── midjourney/       # Midjourney image prompts
+│   ├── flux/             # FLUX.1 [Dev] image prompts
 │   └── chatgpt/          # ChatGPT prompt templates
 ├── README.md
-└── CONTRIBUTING.md
+├── CONTRIBUTING.md
+├── LINKEDIN_POST.md      # Social media promotion content
+└── PROMOTION_GUIDE.md    # Complete promotion strategy
 ```
 
 ---
