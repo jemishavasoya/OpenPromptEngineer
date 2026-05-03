@@ -15,6 +15,15 @@ Curated Midjourney prompts for stunning AI-generated images.
 - **Tags**: Mesmerizing, Style, Fusion, Tradition, Modernity, Model, Indian
 - **Views**: 1.68k | **Likes**: 2
 
+### Clipart & Illustrations
+
+#### Vibrant Boho Summer Girl Clipart in Watercolor
+![Preview](./clipart/boho-summer-girl-preview.jpg)
+- **Folder**: [clipart/vibrant-boho-summer-girl-clipart-in-watercolor](./clipart/vibrant-boho-summer-girl-clipart-in-watercolor.md)
+- **Style**: Watercolor clipart with hand-drawn outlines, boho aesthetic
+- **Tags**: Joy, Summer, Light, Flowers, Girl, Boho, Vibe
+- **Views**: 682 | **Likes**: 8
+
 ---
 
 ## 🚀 How to Use
