@@ -14,6 +14,7 @@ Premium, copy-paste hero sections and AI prompts. 100% Free and Open Source.
 | [⚛️ React + Tailwind](./ui-prompts/react-tailwind) | Web-focused animated hero sections. | Active |
 | [🌐 HTML + CSS](./ui-prompts/html-css) | Pure HTML/CSS hero sections. | Active |
 | [🎨 Midjourney Prompts](./ai-prompts/midjourney) | Midjourney generative prompts. | Active |
+| [⚡ FLUX Prompts](./ai-prompts/flux) | FLUX.1 [Dev] high-quality image generation. | Active |
 | [🤖 ChatGPT Prompts](./ai-prompts/chatgpt) | 100 ChatGPT prompt templates across 7 categories. | Active |
 
 ---
@@ -54,6 +55,23 @@ Premium, copy-paste hero sections and AI prompts. 100% Free and Open Source.
   <tr>
     <td colspan="4" align="center">
       <p><strong><a href="./ai-prompts/midjourney/">Browse All Midjourney Prompts →</a></strong></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚡ Featured FLUX Prompts
+
+<table>
+  <tr>
+    <td width="100%" align="center">
+      <a href="./ai-prompts/flux/portrait-photography/candid-urban-portrait.md">
+        <img src="./ai-prompts/flux/portrait-photography/candid-urban-portrait-preview.png" alt="Candid Urban Portrait" width="40%">
+      </a>
+      <p><strong><a href="./ai-prompts/flux/portrait-photography/candid-urban-portrait.md">Candid Urban Portrait</a></strong></p>
+      <p><small>Natural daylight, urban concrete backdrop • 14.8k views</small></p>
+      <p><small><a href="./ai-prompts/flux/">Browse All FLUX Prompts →</a></small></p>
     </td>
   </tr>
 </table>
