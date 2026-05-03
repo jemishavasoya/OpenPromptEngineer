@@ -65,13 +65,24 @@ Premium, copy-paste hero sections and AI prompts. 100% Free and Open Source.
 
 <table>
   <tr>
-    <td width="100%" align="center">
+    <td width="50%" align="center">
       <a href="./ai-prompts/flux/portrait-photography/candid-urban-portrait.md">
-        <img src="./ai-prompts/flux/portrait-photography/candid-urban-portrait-preview.png" alt="Candid Urban Portrait" width="40%">
+        <img src="./ai-prompts/flux/portrait-photography/candid-urban-portrait-preview.png" alt="Candid Urban Portrait" width="100%">
       </a>
       <p><strong><a href="./ai-prompts/flux/portrait-photography/candid-urban-portrait.md">Candid Urban Portrait</a></strong></p>
-      <p><small>Natural daylight, urban concrete backdrop • 14.8k views</small></p>
-      <p><small><a href="./ai-prompts/flux/">Browse All FLUX Prompts →</a></small></p>
+      <p><small>Natural daylight, urban setting</small></p>
+    </td>
+    <td width="50%" align="center">
+      <a href="./ai-prompts/flux/portrait-photography/cozy-knit-sweater-portrait.md">
+        <img src="./ai-prompts/flux/portrait-photography/cozy-knit-sweater-portrait-preview.png" alt="Cozy Portrait" width="100%">
+      </a>
+      <p><strong><a href="./ai-prompts/flux/portrait-photography/cozy-knit-sweater-portrait.md">Cozy Knit Sweater Portrait</a></strong></p>
+      <p><small>Warm lighting, intimate atmosphere</small></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <p><strong><a href="./ai-prompts/flux/">Browse All FLUX Prompts →</a></strong></p>
     </td>
   </tr>
 </table>

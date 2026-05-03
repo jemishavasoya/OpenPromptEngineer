@@ -8,15 +8,25 @@ Curated FLUX.1 [Dev] prompts for high-quality AI-generated images.
 
 <table>
   <tr>
-    <td width="100%" align="center">
+    <td width="50%" align="center">
       <h3>Portrait Photography</h3>
       <a href="./portrait-photography/candid-urban-portrait.md">
-        <img src="./portrait-photography/candid-urban-portrait-preview.png" alt="Candid Urban Portrait" width="60%">
+        <img src="./portrait-photography/candid-urban-portrait-preview.png" alt="Candid Urban Portrait" width="100%">
       </a>
       <h4><a href="./portrait-photography/candid-urban-portrait.md">Candid Urban Portrait</a></h4>
       <p><em>Natural daylight, urban concrete backdrop</em></p>
       <p>👁️ 14.8k views | ❤️ 125 favorites</p>
-      <p><code>Candid</code> <code>Urban</code> <code>Natural Light</code> <code>Lifestyle</code></p>
+      <p><code>Candid</code> <code>Urban</code> <code>Natural Light</code></p>
+    </td>
+    <td width="50%" align="center">
+      <h3>Portrait Photography</h3>
+      <a href="./portrait-photography/cozy-knit-sweater-portrait.md">
+        <img src="./portrait-photography/cozy-knit-sweater-portrait-preview.png" alt="Cozy Knit Sweater Portrait" width="100%">
+      </a>
+      <h4><a href="./portrait-photography/cozy-knit-sweater-portrait.md">Cozy Knit Sweater Portrait</a></h4>
+      <p><em>Warm lighting, intimate cozy atmosphere</em></p>
+      <p>👁️ 15.5k views | ❤️ 106 favorites</p>
+      <p><code>Cozy</code> <code>Warm</code> <code>Intimate</code></p>
     </td>
   </tr>
 </table>
