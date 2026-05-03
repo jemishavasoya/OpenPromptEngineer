@@ -6,15 +6,14 @@ Curated Midjourney prompts for stunning AI-generated images.
 
 ## 📦 Available Prompts
 
-*Prompts will be listed here as they are added.*
+### Fashion Photography
 
-<!-- Example format:
-### Cyberpunk Cityscape
-![Example](./cyberpunk-cityscape/example.png)
-- **Folder**: [cyberpunk-cityscape](./cyberpunk-cityscape)
-- **Style**: Cyberpunk, neon, futuristic
-- **Parameters**: --ar 16:9 --v 6
--->
+#### Enchanting Indian Model: Tradition Meets Modernity
+![Preview](./fashion-photography/preview.webp)
+- **Folder**: [fashion-photography/enchanting-indian-model-tradition-meets-modernity](./fashion-photography/enchanting-indian-model-tradition-meets-modernity.md)
+- **Style**: Traditional Indian fusion with modern aesthetics
+- **Tags**: Mesmerizing, Style, Fusion, Tradition, Modernity, Model, Indian
+- **Views**: 1.68k | **Likes**: 2
 
 ---
 
