@@ -4,6 +4,8 @@ Premium, copy-paste hero sections and AI prompts. 100% Free and Open Source.
 
 [⭐ Star this repo](https://github.com/jemishavasoya/OpenPromptEngineer) to support the project!
 
+![Demo Preview](demo-preview.webp)
+
 ---
 
 ## 🚀 Browse Prompts
