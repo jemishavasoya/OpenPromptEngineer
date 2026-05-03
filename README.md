@@ -18,33 +18,6 @@ Premium, copy-paste hero sections and AI prompts. 100% Free and Open Source.
 
 ---
 
-## 🎨 Featured Midjourney Prompts
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <a href="./ai-prompts/midjourney/fashion-photography/enchanting-indian-model-tradition-meets-modernity.md">
-        <img src="./ai-prompts/midjourney/fashion-photography/preview.webp" alt="Indian Model" width="100%">
-      </a>
-      <p><strong><a href="./ai-prompts/midjourney/fashion-photography/enchanting-indian-model-tradition-meets-modernity.md">Enchanting Indian Model</a></strong></p>
-      <p><small>Tradition Meets Modernity</small></p>
-    </td>
-    <td width="33%" align="center">
-      <a href="./ai-prompts/midjourney/clipart/vibrant-boho-summer-girl-clipart-in-watercolor.md">
-        <img src="./ai-prompts/midjourney/clipart/boho-summer-girl-preview.jpg" alt="Boho Girl" width="100%">
-      </a>
-      <p><strong><a href="./ai-prompts/midjourney/clipart/vibrant-boho-summer-girl-clipart-in-watercolor.md">Boho Summer Girl</a></strong></p>
-      <p><small>Watercolor Clipart</small></p>
-    </td>
-    <td width="33%" align="center">
-      <p><strong>More Coming Soon!</strong></p>
-      <p><small><a href="./ai-prompts/midjourney/">Browse All Prompts →</a></small></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## ☕ Support the Project (Wall of Fame)
 
 If this repository saved you time, consider buying a coffee. Every supporter gets a permanent spot right here on the Wall of Fame.
