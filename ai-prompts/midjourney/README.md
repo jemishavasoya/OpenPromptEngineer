@@ -86,7 +86,14 @@ Curated Midjourney prompts for stunning AI-generated images.
       <h4><a href="./concept-art/emotional-cyborg-girl.md">Emotional Cyborg Girl</a></h4>
       <p>👁️ 3.9k | ❤️ 43</p>
     </td>
-    <td colspan="2" align="center">
+    <td width="33%" align="center">
+      <a href="./political-poster/cockroach-janta-party-support-poster.md">
+        <img src="./political-poster/cockroach-janta-party-preview.jpg" alt="Political Poster" width="100%">
+      </a>
+      <h4><a href="./political-poster/cockroach-janta-party-support-poster.md">Political Support Poster</a></h4>
+      <p>👁️ New | ❤️ 0</p>
+    </td>
+    <td align="center">
       <p><strong>More prompts coming soon!</strong></p>
       <p><small>Have a great prompt? <a href="../../CONTRIBUTING.md">Contribute →</a></small></p>
     </td>
@@ -100,6 +107,7 @@ Curated Midjourney prompts for stunning AI-generated images.
 - **Fashion Photography** (7 prompts) - Professional portraits, streetwear, natural lighting
 - **Portrait Photography** (1 prompt) - Vintage Polaroid aesthetics
 - **Concept Art** (1 prompt) - Surrealist expressionism, mixed media
+- **Political Poster** (1 prompt) - Cinematic campaign posters, satirical content
 - **Clipart & Illustrations** (1 prompt) - Watercolor, boho themes
 
 ---

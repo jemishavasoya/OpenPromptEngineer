@@ -18,7 +18,7 @@ Premium, copy-paste hero sections and AI prompts. 100% Free and Open Source.
 
 ## 🎉 What's New
 
-- ✨ **NEW:** 10 Midjourney prompts added (Fashion, Portrait, Concept Art)
+- ✨ **NEW:** 11 Midjourney prompts added (Fashion, Portrait, Concept Art, Political Poster)
 - ⚡ **NEW:** 2 FLUX.1 [Dev] prompts for ultra-realistic portraits
 - 💬 **100+ ChatGPT prompts** across 7 professional categories
 - 🎨 **Gallery layouts** with clickable previews
@@ -139,7 +139,7 @@ OpenPromptEngineer is built by creators, for creators. Whether you're a prompt e
 
 ### 📊 Project Stats
 
-- 🎨 **12** AI Image Generation Prompts
+- 🎨 **13** AI Image Generation Prompts
 - 💬 **100+** ChatGPT Prompts
 - 📁 **7** Categories
 - 🌟 **Growing Community** of contributors
